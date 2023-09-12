@@ -1,0 +1,53 @@
+[
+    {
+      "id": 12345,
+      "cover": "https://i.ibb.co/Y7TyNV0/252-Fashion-sale-facebook-cover-page-template.jpg",
+      "title": "The Secret Garden",
+      "author": "jane_doe",
+      "author_img": "https://i.ibb.co/B6RzKr0/50808948-1999284166846020-2174188543465750528-n.jpg",
+      "posted_date": "2023-09-12",
+      "reading_time": 20,
+      "hashtags": ["fiction", "mystery", "gardening"]
+    },
+    {
+      "id": 67890,
+      "cover": "https://i.ibb.co/xmFX9Y8/263-digital-marketing-facebook-cover-page-template.jpg",
+      "title": "Adventures in Wonderland",
+      "author": "john_smith",
+      "author_img": "https://i.ibb.co/B6RzKr0/50808948-1999284166846020-2174188543465750528-n.jpg",
+      "posted_date": "2023-09-11",
+      "reading_time": 30,
+      "hashtags": ["fantasy", "adventure"]
+    },
+    {
+      "id": 23456,
+      "cover": "https://i.ibb.co/dMjM8PD/19513088.jpg",
+      "title": "The Great Gatsby",
+      "author": "emily_jones",
+      "author_img": "https://i.ibb.co/RSWRRkm/medium-shot-woman-with-diary-book.jpg",
+      "posted_date": "2023-09-10",
+      "reading_time": 25,
+      "hashtags": ["classics", "romance"]
+    },
+    {
+      "id": 91023,
+      "cover": "https://i.ibb.co/Gcqrvxz/394-Digital-marketing-facebook-banner-template.jpg",
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "peter_wilson",
+      "author_img": "https://i.ibb.co/RSWRRkm/medium-shot-woman-with-diary-book.jpg",
+      "posted_date": "2023-09-09",
+      "reading_time": 40,
+      "hashtags": ["sciencefiction", "humor"]
+    },
+    {
+      "id": 45678,
+      "cover": "https://i.ibb.co/LZvR9JG/4378174.jpg",
+      "title": "Pride and Prejudice",
+      "author": "susan_martin",
+      "author_img": "https://i.ibb.co/RSWRRkm/medium-shot-woman-with-diary-book.jpg",
+      "posted_date": "2023-09-08",
+      "reading_time": 35,
+      "hashtags": ["classics", "romance"]
+    }
+  ]
+  
